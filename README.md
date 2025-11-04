@@ -1,4 +1,3 @@
-# Cyber-Write-Up-Fetcher
 # Cyber Write-Up Fetcher
 
 This project automatically scrapes cybersecurity-related write-ups from **Medium** and **Freedium** every 10 minutes.
