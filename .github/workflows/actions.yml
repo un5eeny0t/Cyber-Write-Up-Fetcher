@@ -1,8 +1,8 @@
-name: Medium Writeups
+name: Cyber-Write-Up-Fetcher
 
 on:
   schedule:
-    - cron: '*/01 * * * *'
+    - cron: '*/05 * * * *'
   push:
     branches:
       - main
@@ -40,8 +40,8 @@ jobs:
         
         # Check if there are changes before committing
         if ! git diff --cached --exit-code; then
-          IST_DATE=$(TZ='Asia/Kuala Lumpur' date +'%a %b %d %H:%M:%S IST %Y')
-          git commit -m "Updated List: $IST_DATE"
+          MYT_DATE=$(TZ='Asia/Kuala_Lumpur' date +'%a %b %d %H:%M:%S MYT %Y')
+          git commit -m "Updated List: $MYT_DATE"
           git push
         else
           echo "No changes to commit"
