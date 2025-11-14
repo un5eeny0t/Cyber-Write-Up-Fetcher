@@ -4,6 +4,7 @@ Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax err
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 14 Nov 2025 16:21:39 GMT | [The Hidden Cost of Compromised Accounts And Why Your Private Mess...](https://freedium.cfd/https://medium.com/p/34472173cd23) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 14:24:22 GMT | [From Family to Furlough: The Comedy of Authentic Leadership](https://freedium.cfd/https://medium.com/p/1b4338883de0) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 13:17:14 GMT | [Building Smarter Systems: The Role of AI in Next-Gen Cloud Infras...](https://freedium.cfd/https://medium.com/p/2d18c5b43f42) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 10:38:50 GMT | [The Importance of Self-Learning in the Information Age](https://freedium.cfd/https://medium.com/p/686d5981256a) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 09:05:21 GMT | [Forget About the Threat from Putin and Trump - This Is Far Worse](https://freedium.cfd/https://medium.com/p/f2e07dec0f76) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 08:56:51 GMT | [ The Evolution of VAPT: Why Modern Security Testing Has Transform...](https://freedium.cfd/https://medium.com/p/2cb87bc46260) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 16:06:25 GMT | [⚙️ Inside PostgreSQL Performance Optimization: Real Tuning Le...](https://freedium.cfd/https://medium.com/p/2387c86542cd) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 15:02:31 GMT | [Cyber Briefing: 2025.11.14](https://freedium.cfd/https://medium.com/p/7dcce28385e4) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 09:52:13 GMT | [Why HR Kiosk Machines Are Becoming Essential for Large Enterprise...](https://freedium.cfd/https://medium.com/p/436160cda6e6) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Fri, 14 Nov 2025 09:41:27 GMT | [Advanced Threat Modeling Techniques](https://freedium.cfd/https://medium.com/p/c6f6e7bd3268) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
