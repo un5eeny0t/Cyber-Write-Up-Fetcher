@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,12 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 15 Nov 2025 09:47:41 GMT | [How a Single SSRF Changed My Life: My Journey From Logistics Into...](https://freedium.cfd/https://medium.com/p/e1eba7ff7ce1) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 15 Nov 2025 08:34:01 GMT | [How Hackers Abuse Error Pages for Recon: Step-by-Step Guide for P...](https://freedium.cfd/https://medium.com/p/cbe013b89f70) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 15 Nov 2025 05:57:47 GMT | [When Reading the Source Code Is the Real Hack: A Web Challenge St...](https://freedium.cfd/https://medium.com/p/b6adfcaa0fee) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 15 Nov 2025 04:48:04 GMT | [How I Got a Letter of Recognition from NASA (And How You Can Too)](https://freedium.cfd/https://medium.com/p/006f1b4c2649) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 15 Nov 2025 00:02:03 GMT | [API1:2023 BOLA (IDOR): Critical API Authorization Flaw & Bug Boun...](https://freedium.cfd/https://medium.com/p/3203133a5040) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 14 Nov 2025 18:16:19 GMT | [The Silent ATO](https://freedium.cfd/https://medium.com/p/238edcda6dd0) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 14 Nov 2025 18:07:00 GMT | [Business logic lead to Permanently Locked Any Email Out of Their ...](https://freedium.cfd/https://medium.com/p/c6077f2cee59) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 14 Nov 2025 19:16:32 GMT | [Critical Broken Access Control: Public Tokens Enable Sensitive Ac...](https://freedium.cfd/https://medium.com/p/ada4a5dad40a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 14 Nov 2025 18:37:01 GMT | [Hidden Role, Full Takeover: How an Invite API Let Me Become an Or...](https://freedium.cfd/https://medium.com/p/86c9e55298e4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
