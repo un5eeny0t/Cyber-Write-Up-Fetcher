@@ -10,14 +10,14 @@ Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax erro
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
@@ -62,23 +62,23 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sun, 16 Nov 2025 14:29:13 GMT | [MongoDB — Disaster Recovery Strategies](https://freedium.cfd/https://medium.com/p/6fe8e20bffbb) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 13:09:36 GMT | [6 Farklı şirkette nasıl XSS buldum?](https://freedium.cfd/https://medium.com/p/f74cd6c0e59b) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  | Yes |
-| Sun, 16 Nov 2025 19:09:59 GMT | [CyCTF Quals 2025](https://freedium.cfd/https://medium.com/p/8b71d480c50c) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 16:19:02 GMT | [What Is Information Security? — Building a Strong Foundatio...](https://freedium.cfd/https://medium.com/p/5b6c6fb68bc3) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 17:24:08 GMT | [How to Create a Basic Antivirus — Part 1](https://freedium.cfd/https://medium.com/p/a0aa75958352) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 22:02:26 GMT | [\[ SOC Alert => Windows OLE Zero-Click RCE Exploitation Detected ...](https://freedium.cfd/https://medium.com/p/f7ff92502f07) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 21:48:52 GMT | [How a Simple USB Folder Triggered a VBScript Worm: A SOC Case Stu...](https://freedium.cfd/https://medium.com/p/6c05f8604a54) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 18:07:20 GMT | [I Used Google and ChatGPT to Expose a  Scam](https://freedium.cfd/https://medium.com/p/6494a265c753) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 16:01:53 GMT | [Building Resilience Through Cybersecurity Risk Management](https://freedium.cfd/https://medium.com/p/d2ae0ee76c1a) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 15:36:20 GMT | [The Linux Security Journey — Protected FIFO (First In First...](https://freedium.cfd/https://medium.com/p/dbb9d946440c) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sun, 16 Nov 2025 19:47:25 GMT | [The Cyber Security Paradox: Why You Can’t Fight Back (Even When...](https://freedium.cfd/https://medium.com/p/8b30162b3636) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Sat, 15 Nov 2025 14:44:29 GMT | [This Simple Habit Can Save Your App from XSS and SQL Injection At...](https://freedium.cfd/https://medium.com/p/f169999deae2) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Thu, 13 Nov 2025 11:03:59 GMT | [Lab 4: DOM XSS in `innerHTML` Sink Using Source `location.search`](https://freedium.cfd/https://medium.com/p/66928f47437f) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Tue, 11 Nov 2025 17:39:17 GMT | [DOM XSS in document.write sink inside a select element — Cr...](https://freedium.cfd/https://medium.com/p/b83de89b0cf5) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Thu, 13 Nov 2025 13:54:55 GMT | [How I Found a Reflected XSS Using ParamSpider & Kxss](https://freedium.cfd/https://medium.com/p/37a6b3e09ec8) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Tue, 11 Nov 2025 14:50:34 GMT | [ZAST.AI identified 6+ vulnerabilities in JeeSite](https://freedium.cfd/https://medium.com/p/06751797be0a) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Sat, 15 Nov 2025 10:40:30 GMT | [Limited Char XSS Challange Solution of Nowasky](https://freedium.cfd/https://medium.com/p/6ed3fb6387f8) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Tue, 11 Nov 2025 21:20:24 GMT | [postMessage` XSS: It’s Like Passing Secret Notes in Class… Bu...](https://freedium.cfd/https://medium.com/p/842c113b61dc) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Tue, 11 Nov 2025 14:36:58 GMT | [Reflected XSS inside a JavaScript string (angle brackets HTML-enc...](https://freedium.cfd/https://medium.com/p/fa99886fb1ab) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
-| Tue, 11 Nov 2025 12:01:10 GMT | [Stored XSS into anchor href attribute with double quotes HTML-enc...](https://freedium.cfd/https://medium.com/p/25bc419b611d) | [xss-attack](https://medium.com/feed/tag/xss-attack) |  |  |
+| Sun, 16 Nov 2025 16:17:29 GMT | [ReconX — The Fastest All-in-One Reconnaissance Framework fo...](https://freedium.cfd/https://medium.com/p/f4145a4d92b1) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 13:34:44 GMT | [Cracking Wi-Fi WPA2 Password Using Kali Linux](https://freedium.cfd/https://medium.com/p/bd9993ae9651) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 10:41:38 GMT | [How to Install Any Tool in Linux \| APT Errors Solved (Fix Guide)](https://freedium.cfd/https://medium.com/p/afb88f547ac1) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 21:05:19 GMT | [Multi-Stage Web Exploitation Leading to Full System Compromise an...](https://freedium.cfd/https://medium.com/p/c0382c706111) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 10:54:36 GMT | [Purple Team Analysis: When Red Meets Blue in aWeb Attack](https://freedium.cfd/https://medium.com/p/c1411d51d2df) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 21:26:40 GMT | [How I Found a Critical IDOR Flaw in Minutes](https://freedium.cfd/https://medium.com/p/85ddf0648d99) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 20:37:42 GMT | [The Recon Playbook Every Hacker Uses (But No One Talks About)b](https://freedium.cfd/https://medium.com/p/4c4e0477fa5d) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 15:12:59 GMT | [OhMyPP Web challenge PWNSEC CTF](https://freedium.cfd/https://medium.com/p/7a46ff7b9350) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 10:41:01 GMT | [Cybersecurity #14: Nmap](https://freedium.cfd/https://medium.com/p/5ed1e0cdf66b) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Tue, 12 Aug 2025 17:24:22 GMT | [How I Removed Other User`s Uploaded Images in a Few Clicks](https://freedium.cfd/https://medium.com/p/fdeb6355458b) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Tue, 15 Jul 2025 08:14:04 GMT | [Level Up Your Bounties: How to Choose the Best Bug Bounty Program...](https://freedium.cfd/https://medium.com/p/18cdaf61cdcb) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Fri, 11 Jul 2025 07:49:47 GMT | [Platform Showdown: The Ultimate Guide to Choosing Your Bug Bounty...](https://freedium.cfd/https://medium.com/p/64ea085ae800) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Thu, 09 Oct 2025 18:33:05 GMT | [0-click Account Takeover via Punycode](https://freedium.cfd/https://medium.com/p/39b9a5cfbfb1) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Wed, 16 Jul 2025 13:50:36 GMT | [Bug Bounties, Broken Promises](https://freedium.cfd/https://medium.com/p/a19557db0aaa) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 24 Aug 2025 20:18:55 GMT | [How I found an Account Lockout Vulnerability Without Any Tools](https://freedium.cfd/https://medium.com/p/f52cbcd58730) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Thu, 02 Oct 2025 06:59:46 GMT | [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with...](https://freedium.cfd/https://medium.com/p/d150c5db0a92) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 17 Aug 2025 19:26:05 GMT | [﷽](https://freedium.cfd/https://medium.com/p/b3205aa78fbb) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 17 Aug 2025 17:58:45 GMT | [$$$ How I Exploited a Business Logic Flaw to Slash Product Prices...](https://freedium.cfd/https://medium.com/p/64cd1d445d17) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Fri, 10 Oct 2025 14:21:53 GMT | [Finding XSS on a Real-World Bug Bounty Program](https://freedium.cfd/https://medium.com/p/d718335bcb30) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 16 Nov 2025 18:07:20 GMT | [I Used Google and ChatGPT to Expose a  Scam](https://freedium.cfd/https://medium.com/p/6494a265c753) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) |  | Yes |
