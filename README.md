@@ -4,9 +4,9 @@ Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax err
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 14 Nov 2025 03:45:03 GMT | [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Ga...](https://freedium.cfd/https://medium.com/p/3bfdf6a352b0) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Thu, 13 Nov 2025 20:50:25 GMT | [Please  Stop waste your time for reporting a false security vulne...](https://freedium.cfd/https://medium.com/p/09243aba8af1) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Fri, 14 Nov 2025 13:27:45 GMT | [When the Bug Bounty Platform Turns Against Its Own Hunters](https://freedium.cfd/https://medium.com/p/3f5da87851ff) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Fri, 14 Nov 2025 12:33:36 GMT | [How I found a critical 0-Click Account Takeover vulnerability](https://freedium.cfd/https://medium.com/p/c2ac0f61f097) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Fri, 14 Nov 2025 05:16:30 GMT | [Cache Poisoning: How We Analyzed $44K in Bug Bounties](https://freedium.cfd/https://medium.com/p/eda1107c779a) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Fri, 14 Nov 2025 03:45:26 GMT | [$6000 Bounty: Breakdown XSS Vulnerability](https://freedium.cfd/https://medium.com/p/e03f3f537c6d) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Sat, 15 Nov 2025 20:35:57 GMT | [A Revolutionary Bug: How Accidentally Invented the “Informative...](https://freedium.cfd/https://medium.com/p/1882f3dfd1b5) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Sat, 15 Nov 2025 14:15:08 GMT | [DorkBounty: Supercharging Recon for Bug Bounty Hunters](https://freedium.cfd/https://medium.com/p/68d985f9df9b) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Sat, 15 Nov 2025 13:00:52 GMT | [New Bug Hunters: This Is How You Land a Critical Find](https://freedium.cfd/https://medium.com/p/eaaf71fae5f4) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
-| Sat, 15 Nov 2025 12:19:54 GMT | [How to Test for IDOR: The Practical Methodology](https://freedium.cfd/https://medium.com/p/fec3688febfb) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Sun, 16 Nov 2025 06:42:25 GMT | [Quantum Computing: The $20 Billion Revolution That’s Finally Ge...](https://freedium.cfd/https://medium.com/p/aacf3c740c92) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Sun, 16 Nov 2025 05:29:32 GMT | [Belajar coding sudah tidak lagi worth it karena AI?!](https://freedium.cfd/https://medium.com/p/df06a40f03c3) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Sat, 15 Nov 2025 22:16:10 GMT | [Building a Cybersecurity Home Lab — Part 3.1: Configuring N...](https://freedium.cfd/https://medium.com/p/ee5decba8f47) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 21:33:36 GMT | [Control your notes with AI (FREE)](https://freedium.cfd/https://medium.com/p/f177f6b987c7) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 21:15:49 GMT | [How to Easily Start in Cybersecurity: A Complete Beginner’s Roa...](https://freedium.cfd/https://medium.com/p/d3a950e6560d) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 16:47:11 GMT | [Understanding VMware Memory Ballooning and Why Hypervisor Swappin...](https://freedium.cfd/https://medium.com/p/d60807886afb) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 22:59:15 GMT | [Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k)](https://freedium.cfd/https://medium.com/p/18cf91b24174) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 22:17:49 GMT | [Building a Cybersecurity Home Lab — Part 3.2: Deploying and...](https://freedium.cfd/https://medium.com/p/fb3687b3b209) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 23:33:29 GMT | [Report cryptocurrency scam/Contact: Scanner Hacker Crypto Recover...](https://freedium.cfd/https://medium.com/p/67a98e18c7c4) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
+| Sat, 15 Nov 2025 17:32:56 GMT | [Zero Trust Implementation Plan ](https://freedium.cfd/https://medium.com/p/a5a7abbc43e8) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes |  |
